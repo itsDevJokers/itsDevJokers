@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsdevjokers&label=Profile%20views&color=0e75b6&style=flat" alt="itsdevjokers" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working at Plato as **Frontend Developer**
 
 - 📫 How to reach me **jonathankarongkong97@gmail.com**
 
