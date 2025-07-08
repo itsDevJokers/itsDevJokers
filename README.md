@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsdevjokers&label=Profile%20views&color=0e75b6&style=flat" alt="itsdevjokers" /> </p>
 
-- 🌱 I’m currently working at Plato as **Frontend Developer**
+**Frontend Engineer with over 3 years of experience building scalable, user-centric web & mobile 
+applications using React.js and the modern JavaScript ecosystem.** Proven track record in logistics 
+and edutech startups, collaborating with cross-functional teams to translate business goals into intuitive 
+and high-performing digital products.
 
 - 📫 How to reach me **jonathankarongkong97@gmail.com**
 
